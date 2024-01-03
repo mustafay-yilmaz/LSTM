@@ -17,3 +17,44 @@ predict.py doyasında ise eğitilmiş modelin pratiğe geçmektedir. Not: lstm.p
 **İkinci Çözümün Açıklanması (LSTM):**
 
 Bu çözümde, train.csv veri setinden çekilen cümlelerle model eğitilmektedir ve eğitilmiş modele kelimeler vererek cümle üretilmesi sağlanmaktadır.
+
+**Kurulum ve Çalıştırma:**
+
+1- import edilmesi gereken kütüphaneler
+
+Eğer bilgisayarınızda pip yüklüyse terminale bu komutları yazarak kütüphaneleri yükleyebilirsiniz
+
+* Numpy 
+
+      pip install numpy
+* Pandas 
+
+      pip install pandas
+      
+* joblib
+
+      pip install joblib
+* Tensorflow
+
+      pip install tensorflow
+
+* Keras
+
+      pip install Keras
+* tkinter
+
+      pip install tkinter
+* matplotlib
+
+      pip install matplotlib
+
+2 - Çalıştırma
+
+- "UI_designed_project" adlı klasöre girip sağ tıklayıp VS Code ile çalıştır seçeneğine tıklayın
+- Ardından main.py dosyasını çalıştırıp uygulamayı kullanabilirsiniz
+
+**Uygulama İçi Görüntüler:**
+
+![enter image description here](https://github.com/wassapman/LSTM/blob/main/UI_designed_project/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-02%20172410.png?raw=true)
+![enter image description here](https://github.com/wassapman/LSTM/blob/main/UI_designed_project/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-02%20173232.png?raw=true)
+![enter image description here](https://github.com/wassapman/LSTM/blob/main/UI_designed_project/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-03%20124812.png?raw=true)
